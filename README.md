@@ -9,5 +9,8 @@ Running the Application
 
 Before running the application we need to create the needed DB tables:
 
-manage.py migrate
+./manage.py migrate
 
+ you can run the development web server:
+
+    ./manage.py runserver
